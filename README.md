@@ -1,4 +1,4 @@
-# Modern Responsive Restaurant Website using Bootstrap
+# Restaurant Website using Bootstrap
 
 ### Date: 20/11/2025  
 

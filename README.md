@@ -5,7 +5,7 @@
 ---
 
 ## AIM:
-To design and develop a **modern, animated, and fully responsive Restaurant Website** using **HTML, CSS, and Bootstrap**, ensuring smooth viewing on mobile, tablet, and desktop devices.
+To design and develop a Restaurant Website using HTML, CSS, and Bootstrap.
 
 
 

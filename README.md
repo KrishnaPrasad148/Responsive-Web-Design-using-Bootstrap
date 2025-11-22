@@ -43,7 +43,6 @@ Design a clean **footer section** and test the website on multiple screen sizes.
 Developed By: Krishna Prasad S  
 Register No.: 212223230108  
 ```
----
 
 ### index.html :
 ```html

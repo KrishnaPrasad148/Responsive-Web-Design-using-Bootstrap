@@ -85,7 +85,7 @@ Register No.: 212223230108
   <div class="container">
     <h1 class="display-3 animate__animated animate__fadeInDown">Juicy Bites, Happy Nights!</h1>
     <p class="lead animate__animated animate__fadeInUp animate__delay-1s">
-      Taste the magic at MEET n EAT — the home of premium burgers.
+      Taste the magic at MEET n EAT, the home of premium burgers.
     </p>
     <a href="#" class="btn btn-warning btn-lg mt-3 animate__animated animate__fadeInUp animate__delay-2s">
       Explore Menu
@@ -134,7 +134,7 @@ Register No.: 212223230108
 </section>
 
 <footer class="text-center py-3 bg-black mt-5">
-  <p class="m-0">© 2025 MEET n EAT | Designed with ❤️</p>
+  <p class="m-0">© 2025 MEET n EAT | Designed with Love</p>
 </footer>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>

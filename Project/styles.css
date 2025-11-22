@@ -1,0 +1,23 @@
+/* HERO SECTION */
+.hero {
+  height: 100vh;
+  background-image: url('burger.png');
+  background-size: cover;
+  background-position: center;
+  background-blend-mode: darken;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+/* Card Hover Effect */
+.card-hover {
+  transition: transform .3s, box-shadow .3s;
+}
+.card-hover:hover {
+  transform: translateY(-10px);
+  box-shadow: 0px 10px 25px rgba(255, 255, 255, 0.2);
+}
+
+/* Make text readable on dark bg */
+body {
+  color: white;
+}
